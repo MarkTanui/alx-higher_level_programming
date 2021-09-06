@@ -6,3 +6,4 @@ Task 3 (Print integer) -  print the integer stored in the variable number, follo
 Task 4 (Print float) - print the float stored in the variable number with a precision of 2 digits
 Task 5 (Print string) - print 3 times a string stored in the variable str, followed by its first 9 characters
 Task 6 (Play with strings) -  print Welcome to Holberton School!
+Task 7 (Copy-Cut_paste) - 
