@@ -1,0 +1,1 @@
+## The directory contains files and scripts written for the first project: 0x00-python-hello_world.
