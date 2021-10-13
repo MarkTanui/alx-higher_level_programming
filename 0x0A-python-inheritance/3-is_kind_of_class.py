@@ -7,7 +7,5 @@ the specified class ; otherwise False
 
 
 def is_kind_of_class(obj, a_class):
-    if (isinstance(obj, a_class) or isinstance(obj, a_class)):
-        return True
-    else:
-        return False
+    """returns True or False"""
+    return (isinstance(obj, a_class))
