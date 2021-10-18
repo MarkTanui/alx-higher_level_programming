@@ -4,7 +4,7 @@ from models import rectangle
 from models import square
 
 Rectangle = rectangle.Rectangle
-Square =  square.Square
+Square = square.Square
 
 if __name__ == "__main__":
 
