@@ -2,5 +2,7 @@
 module.sxports = class Square extends require('./4-rectangle') {
   constructor (size) {
     super(size, size);
+    this.height = size;
+    this.width = size;
   }
 };
